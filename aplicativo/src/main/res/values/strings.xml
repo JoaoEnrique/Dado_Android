@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DicerollerImage</string>
+    <string name="Text">Dado João Enrique</string>
+    <string name="roll_button">Rolar Dado</string>
+</resources>
